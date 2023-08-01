@@ -1,5 +1,5 @@
 
-#Bored API Activity Suggestion Web App
+# Bored API Activity Suggestion Web App
 
 This application is built using Node.js, Express, EJS, and Axios to generate random activity suggestions based on user-selected criteria. It allows users to find interesting activities to do when they are feeling bored or looking for something fun to engage in.
 
@@ -45,15 +45,15 @@ The app will fetch an activity that matches the selected criteria and display it
 
 The application relies on the following npm packages:
 
-express: Web framework for creating the server and handling routes.
+- express: Web framework for creating the server and handling routes.
 
-body-parser: Middleware for parsing form data from incoming requests.
+- body-parser: Middleware for parsing form data from incoming requests.
 
-axios: HTTP client for making API calls.
+- axios: HTTP client for making API calls.
 
-ejs: Templating engine for rendering dynamic HTML content.
+- ejs: Templating engine for rendering dynamic HTML content.
 
-These dependencies are automatically installed when you run the "npm install" command.
+- These dependencies are automatically installed when you run the "npm install" command.
 
 
 
