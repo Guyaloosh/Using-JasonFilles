@@ -55,10 +55,9 @@ The application relies on the following npm packages:
 
 - These dependencies are automatically installed when you run the "npm install" command.
 
+![Screenshot 2023-08-01 103506](https://github.com/Guyaloosh/Using-JasonFilles/assets/96589390/cd2bd1cd-7b5c-4b83-8d48-c367ee11264d)
+
+![Screenshot 2023-08-01 103847](https://github.com/Guyaloosh/Using-JasonFilles/assets/96589390/16a961a9-1519-43e3-b143-09210361d5c4)
 
 
-![Screenshot 2023-08-01 103506](https://github.com/Guyaloosh/Using-JasonFilles/assets/96589390/6a3286b4-9a71-4e6f-a507-c067ed42624e)
 
-
-
-![Screenshot 2023-08-01 103847](https://github.com/Guyaloosh/Using-JasonFilles/assets/96589390/21c7ec6f-6583-45a4-a5a9-7c7698478de4)
