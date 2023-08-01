@@ -1,5 +1,5 @@
 
-# Bored API Activity Suggestion Web App
+# API Activity Suggestion Web App
 
 This application is built using Node.js, Express, EJS, and Axios to generate random activity suggestions based on user-selected criteria. It allows users to find interesting activities to do when they are feeling bored or looking for something fun to engage in.
 
