@@ -46,8 +46,19 @@ The app will fetch an activity that matches the selected criteria and display it
 The application relies on the following npm packages:
 
 express: Web framework for creating the server and handling routes.
+
 body-parser: Middleware for parsing form data from incoming requests.
+
 axios: HTTP client for making API calls.
+
 ejs: Templating engine for rendering dynamic HTML content.
+
 These dependencies are automatically installed when you run the "npm install" command.
 
+
+
+![Screenshot 2023-08-01 103506](https://github.com/Guyaloosh/Using-JasonFilles/assets/96589390/6a3286b4-9a71-4e6f-a507-c067ed42624e)
+
+
+
+![Screenshot 2023-08-01 103847](https://github.com/Guyaloosh/Using-JasonFilles/assets/96589390/21c7ec6f-6583-45a4-a5a9-7c7698478de4)
